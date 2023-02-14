@@ -2,10 +2,10 @@
 
 ## Quem sou eu !
 
-- 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 👨🏻‍💻 Novo no mundo dos codigos
-- 👾 Em constante aprendizado
-- 📫 Me chame por esse email não tão profissional: henriquebueno896@gmail.com
+###- 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+###- 👨🏻‍💻 Novo no mundo dos codigos
+###- 👾 Em constante aprendizado
+###- 📫 Me chame por esse email não tão profissional: henriquebueno896@gmail.com
 
   ##
   
