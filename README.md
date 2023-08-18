@@ -5,7 +5,6 @@
 ### - 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 ### - 👨🏻‍💻 Principiante no mundo dos codigos
 ### - 👾 Em constante aprendizado
-### - 📫 Me chame por esse email não tão profissional: henriquebueno896@gmail.com
 
   ##
   
