@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 - 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>- 👨🏻‍💻 Principiante no mundo dos códigos<br>- 👾 Em constante aprendizado<br>- 🖥  Trabalhando atualmente como T.I em uma escola particular
 
 
