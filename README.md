@@ -12,6 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HenriBueno00&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriBueno00&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📦 My Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriBueno00&repo=repo1&theme=radical)]([https://github.com/HenriBueno00/repo1](https://github.com/HenriBueno00/Lab_BancoDeDados))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriBueno00&repo=repo2&theme=radical)]([https://github.com/HenriBueno00/repo2](https://github.com/HenriBueno00/Lab_EN_SOFT))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriBueno00&repo=repo3&theme=radical)]([https://github.com/HenriBueno00/repo3](https://github.com/HenriBueno00/Desenvolvimento_Web))
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HenriBueno00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
